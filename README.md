@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A2.png" alt="A2 Security Logo" width="325"/>
+  <img src="A2.png" alt="A2 Security Logo" width="250"/>
 </p>
 
 ## Our Team
