@@ -37,4 +37,4 @@
 [Alix40](https://x.com/AliX__40)'s analytical skills, honed through years of web2 security work, coupled with a deep understanding of DeFi mechanics, make them particularly adept at uncovering subtle, high-impact vulnerabilities that others might miss. 
 
 
-## [Check Our Portfolio](https://github.com/A2-Security/.github) 
+## [Check Our Portfolio](https://github.com/A2-Security/.github) 👋
