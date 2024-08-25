@@ -31,8 +31,8 @@
 | **Cantina**  | 3DNS                   | **5th**     | **2H, 3M** | N/A                                                                                           | **Private**          | ElHaj       |
 | **CodeHawks** | DittoEth              | **5th**     | **1H, 2M** | [Leaderboard](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)                 | **Public**           | ElHaj       |
 | **Cantina**  | curvance               | **6th**     | **6H,7M**  | [Leaderboard](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff/leaderboard) | **Public**           | Alix40      |
-| **Cantina**  | Op-Safe-Extensions     | **7th**     | **3M**     | [Leaderboard](https://cantina.xyz/leaderboard/d47f8096-8858-437d-a9f5-2fe85ac9b95e)        | **Public**           | A2-security       |
-| **CodeHawks** | chainlink-ccip              | **7th**   | **1M** | [Leaderboard](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf)                 | **Public**           | ElHaj       |
+| **Cantina**  | Op-Safe-Extensions     | **7th**     | **3M**     | [Leaderboard](https://cantina.xyz/leaderboard/d47f8096-8858-437d-a9f5-2fe85ac9b95e)        | **Public**           | ElHaj      |
+| **CodeHawks** | chainlink-ccip              | **7th**   | **1M** | [Leaderboard](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf)                 | **Public**           | A2-security        |
 | **CodeHawks** | The standard          | -            | **1H**     | [Leaderboard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)                 | **Public**           | ElHaj       |
 | **Sherlock** | Exactly-Protocol       | -            | **1H , 6M**| [Leaderboard](https://audits.sherlock.xyz/contests/247/leaderboard)                          | **Public**           | ElHaj       |
 | **Cantina**  | aavev3.1               | -            | **1H , 3M**| [Leaderboard](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2/leaderboard) | **Public**           | Alix40      |
