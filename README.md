@@ -1,4 +1,9 @@
-# A2 Security
+
+
+<p align="center">
+  <img src="A2.svg" alt="A2 Security Logo" width="600"/>
+</p>
+
 ## Our Team
 
 - At [A2-Security](), we are dedicated to securing the world of **Defi**. As a specialized auditing firm, we focus exclusively on **Defi**, ensuring they operate safely and transparently. Our mission is to protect users and enhance trust in decentralized finance  by identifying vulnerabilities and strengthening the security of lending platforms.
