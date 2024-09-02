@@ -38,3 +38,4 @@
   |------------|------------------------|----------------------|------------------------------------|
   | **Immunefi**| folks-finance          | **public**          | A2-security       |
   | **Sherlock**| Sentiment        | **public**          | A2-security       |
+  | **Immunefi**| folks-finance-mitigation          | **public**          | A2-security       |
