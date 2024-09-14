@@ -37,6 +37,6 @@
    ###  Pending : 
   | *Platform*   | Contest               | Type Of Competitions | Participant |
   |------------|------------------------|----------------------|------------------------------------|
-  | | folks-finance          | **public**          | A2-security       |
   | **Sherlock**| Sentiment        | **public**          | A2-security       |
+  | **Sherlock**| Zerolend | **public**| A2-security|
   | **Immunefi**| folks-finance-mitigation          | **public**          | A2-security       |
