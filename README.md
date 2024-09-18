@@ -11,6 +11,7 @@
 |------------|------------------------|--------------|------------|-----------------------------------------------------------------------------------------------|----------------------|-------------|
 | **CodeHawks** | stake-link             | **1st** 🥇   | **2H , 1M** | [Leaderboard](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)                 | **staking**           | ElHaj       |
 | **Cantina**  | ZeroLand               | **1st** 🥇   | **2H , 8M** | [Leaderboard](https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407)        | **lending**           | ElHaj       |
+|**Immunefi**| Folks-Finance #2            | **1st** 🥇| **1H**     | NA                                                                                       | **lending**               |A2-security|
 |**Immunefi**| Folks-Finance             | **2nd** 🥈| **4H, 3M**     | NA                                                                                       | **lending**               |A2-security|
 | **Cantina**  | superForm              | **2nd** 🥈   | **2H , 5M** | [Leaderboard](https://cantina.xyz/leaderboard/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)        | **yield**           | ElHaj       |
 | **Code4rena**| dyad                   | **2nd** 🥈   | **5H , 4M** | [Leaderboard](https://code4rena.com/audits/2024-04-dyad#top)                                | **lending**           | Alix40      |
@@ -39,4 +40,3 @@
   |------------|------------------------|----------------------|------------------------------------|
   | **Sherlock**| Sentiment        | **public**          | A2-security       |
   | **Sherlock**| Zerolend | **public**| A2-security|
-  | **Immunefi**| folks-finance-mitigation          | **public**          | A2-security       |
