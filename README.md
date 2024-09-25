@@ -11,8 +11,8 @@
 |------------|------------------------|--------------|------------|-----------------------------------------------------------------------------------------------|----------------------|-------------|
 | **CodeHawks** | stake-link             | **1st** 🥇   | **2H , 1M** | [Leaderboard](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)                 | **staking**           | ElHaj       |
 | **Cantina**  | ZeroLand               | **1st** 🥇   | **2H , 8M** | [Leaderboard](https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407)        | **lending**           | ElHaj       |
-|**Immunefi**| Folks-Finance #2            | **1st** 🥇| **1H**     | NA                                                                                       | **lending**               |A2-security|
-|**Immunefi**| Folks-Finance             | **2nd** 🥈| **4H, 3M**     | NA                                                                                       | **lending**               |A2-security|
+|**Immunefi**| Folks-Finance #2            | **1st/92** 🥇| **1H**     | NA                                                                                       | **lending**               |A2-security|
+|**Immunefi**| Folks-Finance             | **2nd/95** 🥈| **4H, 3M**     | NA                                                                                       | **lending**               |A2-security|
 | **Cantina**  | superForm              | **2nd** 🥈   | **2H , 5M** | [Leaderboard](https://cantina.xyz/leaderboard/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)        | **yield**           | ElHaj       |
 | **Code4rena**| dyad                   | **2nd** 🥈   | **5H , 4M** | [Leaderboard](https://code4rena.com/audits/2024-04-dyad#top)                                | **lending**           | Alix40      |
 | **N/A**     | PossumLabs             | **2th** 🥈   | **1M**     | [LINK](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf) | **yield**          | ElHaj       |
@@ -20,7 +20,7 @@
 | **Sherlock** | PoolTogether           | **4th**     | **1H, 3M** | [Leaderboard](https://audits.sherlock.xyz/contests/225/leaderboard)                          | **lending**           | ElHaj       |
 | **Code4rena**| sizeCredit             | **4th**     | **2H , 5M** | [Leaderboard](https://code4rena.com/audits/2024-06-size#top)                                | **lending**           | ElHaj       |
 | **Code4rena**| badger                 | **4th**     | **1M**     | [Leaderboard](https://code4rena.com/audits/2024-06-ebtc-zap-router#top)                      | **lending**           | Alix40      |
-| **Cantina**  | euler-v2               | **4th**     | **N/A**     | [Leaderboard](https://cantina.xyz/competitions/41306bb9-2bb8-4da6-95c3-66b85e11639f/leaderboard) | **lending**           | Alix40      |
+| **Cantina**  | euler-v2               | **4th/620**     | **N/A**     | [Leaderboard](https://cantina.xyz/competitions/41306bb9-2bb8-4da6-95c3-66b85e11639f/leaderboard) | **lending**           | Alix40      |
 | **Cantina**  | Wromhole-NTT           | **4th**     | **2M**     | N/A                                                                                           | **cross-chain**          | ElHaj       |
 | **Cantina**  | 3DNS                   | **5th**     | **2H, 3M** | N/A                                                                                           | **domain**          | ElHaj       |
 | **CodeHawks** | DittoEth              | **5th**     | **1H, 2M** | [Leaderboard](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)                 | **lending**           | ElHaj       |
