@@ -13,10 +13,10 @@
 | **Cantina**  | ZeroLand               | **1st/41** 🥇   | **2H , 8M** | [Leaderboard](https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407)        | **lending**           | ElHaj       |
 |**Immunefi**| Folks-Finance #2            | **1st/92** 🥇| **1H**     | NA                                                                                       | **lending**               |A2-security|
 |**Immunefi**| Folks-Finance             | **2nd/95** 🥈| **4H, 3M**     | NA                                                                                       | **lending**               |A2-security|
-| **Cantina**  | superForm              | **2nd** 🥈   | **2H , 5M** | [Leaderboard](https://cantina.xyz/leaderboard/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)        | **yield**           | ElHaj       |
+| **Cantina**  | superForm              | **2nd/49** 🥈   | **2H , 5M** | [Leaderboard](https://cantina.xyz/leaderboard/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)        | **yield**           | ElHaj       |
 | **Code4rena**| dyad                   | **2nd/223** 🥈   | **5H , 4M** | [Leaderboard](https://code4rena.com/audits/2024-04-dyad#top)                                | **lending**           | Alix40      |
 | **N/A**     | PossumLabs             | **2th/35** 🥈   | **1M**     | [LINK](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf) | **yield**          | ElHaj       |
-| **CodeHawks** | Steadefi              | **3rd** 🥉   | **4H , 7M** | [Leaderboard](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf)                 | **yield**           | ElHaj       |
+| **CodeHawks** | Steadefi              | **3rd/68** 🥉   | **4H , 7M** | [Leaderboard](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf)                 | **yield**           | ElHaj       |
 | **Sherlock** | PoolTogether           | **4th/168**     | **1H, 3M** | [Leaderboard](https://audits.sherlock.xyz/contests/225/leaderboard)                          | **lending**           | ElHaj       |
 | **Code4rena**| sizeCredit             | **4th/192**     | **2H , 5M** | [Leaderboard](https://code4rena.com/audits/2024-06-size#top)                                | **lending**           | ElHaj       |
 | **Code4rena**| badger                 | **4th/74**     | **1M**     | [Leaderboard](https://code4rena.com/audits/2024-06-ebtc-zap-router#top)                      | **lending**           | Alix40      |
