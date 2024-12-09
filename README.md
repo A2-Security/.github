@@ -3,8 +3,7 @@
 </p>
 
 ## Our Work
-
-###  Competitions | Platform       | Contest                | Ranking        | Findings     | Links                                                                                          | Project Type            | Participant     |
+| Platform       | Contest                | Ranking        | Findings     | Links                                                                                          | Project Type            | Participant     |
 |----------------|------------------------|----------------|--------------|------------------------------------------------------------------------------------------------|-------------------------|-----------------|
 | **Sherlock**   | Extra Finance          | **1st** 🥇     | **1H, 2M**   | N/A                                                                                           | **Yield/Leverage**      | **A2-security** |
 | **Sherlock**   | ZeroLend One           | **1st** 🥇     | **11H, 11M** | N/A                                                                                           | **Lending**             | **A2-security** |
