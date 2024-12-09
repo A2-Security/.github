@@ -29,7 +29,7 @@
 | **Cantina**     | Op-Safe-Extensions    | **7th**      | **3M**       | [Leaderboard](https://cantina.xyz/leaderboard/d47f8096-8858-437d-a9f5-2fe85ac9b95e)            | **L2**                  | ElHaj       |
 | **CodeHawks**   | Chainlink-CCIP        | **7th**     | **1M**       | [Leaderboard](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf)                    | **Cross-Chain**         | A2-security |
 | **Sherlock**   | Sentiment        | **7th**     | **9M 1H**       | N/A                    | **Lending**         | A2-security |
-| **Cantina**     | Redstone-oracle-fuel    | **9th**      | **1H 1M**       | N/A            | **Oracle**                  | ElHaj       |
+| **Cantina**     | Redstone-oracle-fuel    | **9th**      | **1H 1M**       | N/A            | **Oracle**                  | A2-security       |
 | **CodeHawks**   | The Standard          | -              | **1H**       | [Leaderboard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)                    | **Lending**             | ElHaj       |
 | **Sherlock**    | Exactly-Protocol      | -              | **1H, 6M**   | [Leaderboard](https://audits.sherlock.xyz/contests/247/leaderboard)                            | **Lending**             | ElHaj       |
 | **Cantina**     | Aavev3.1              | -              | N/A          | [Leaderboard](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2/leaderboard)| **Lending**             | Alix40      |
