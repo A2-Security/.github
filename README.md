@@ -1,7 +1,9 @@
 <p align="center">
   <img src="A2.png" alt="A2 Security Logo" width="200"/>
 </p>
+
 ## Portfolio Summary
+
 - High Issues Found: +55
 - Medium Issues Found: +120
 - Top 5 Finishes: +15
