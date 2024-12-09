@@ -8,10 +8,12 @@
 
 | Platform       | Contest                | Ranking        | Findings     | Links                                                                                          | Project Type            | Participant |
 |----------------|------------------------|----------------|--------------|------------------------------------------------------------------------------------------------|-------------------------|-------------|
-| **CodeHawks**   | Stake-Link            | **1st** 🥇   | **2H, 1M**   | [Leaderboard](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)                    | **Staking**             | ElHaj       |
+| **Extra Finance**     | ZeroLend One             | **1st** 🥇   | **1H, 2M**   | N/A          | **Yield leverage Farming**             | A2-security       |
 | **Cantina**     | ZeroLend              | **1st** 🥇   | **2H, 8M**   | [Leaderboard](https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407)            | **Lending**             | ElHaj       |
 | **Sherlock**     | ZeroLend One             | **1st** 🥇   | **11H, 11M**   | N/A          | **Lending**             | A2-security       |
-| **Immunefi**    | Folks-Finance #2      | **1st** 🥇   | **1H**       | N/A                                                                                            | **Lending**             | A2-security |
+| **Immunefi**    | Folks-Finance #2      | **1st** 🥇   | **1H**       | N/A   
+| **CodeHawks**   | Stake-Link            | **1st** 🥇   | **2H, 1M**   | [Leaderboard](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)                    | **Staking**             | ElHaj       |
+| **Lending**             | A2-security |
 | **Immunefi**    | Folks-Finance         | **2nd** 🥈   | **4H, 3M**   | N/A                                                                                            | **Lending**             | A2-security |
 | **Cantina**     | SuperForm             | **2nd** 🥈   | **2H, 5M**   | [Leaderboard](https://cantina.xyz/leaderboard/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)            | **Yield**               | ElHaj       |
 | **Code4rena**   | Dyad                  | **2nd** 🥈  | **5H, 4M**   | [Leaderboard](https://code4rena.com/audits/2024-04-dyad#top)                                   | **Lending**             | Alix40      |
