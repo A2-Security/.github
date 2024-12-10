@@ -12,8 +12,8 @@
 ## Our Work
 | Platform       | Contest                | Ranking        | Findings     | Links                                                                                          | Project Type            | Participant     |
 |----------------|------------------------|----------------|--------------|------------------------------------------------------------------------------------------------|-------------------------|-----------------|
-| **Sherlock**   | Extra Finance          | **1st** 🥇     | **1H, 2M**   | N/A                                                                                           | **Yield/Leverage**      | **A2-security** |
-| **Sherlock**   | ZeroLend One           | **1st** 🥇     | **11H, 11M** | N/A                                                                                           | **Lending**             | **A2-security** |
+| **Sherlock**   | Extra Finance          | **1st** 🥇     | **1H, 2M**   | N/A                                                                                         | **Yield/Leverage**      | **A2-security** |
+| **Sherlock**   | ZeroLend One           | **1st** 🥇     | **11H, 11M** | [Leaderboard](https://audits.sherlock.xyz/contests/466/leaderboard)                                                                                          | **Lending**             | **A2-security** |
 | **Immunefi**   | Folks-Finance #2       | **1st** 🥇     | **1H**       | N/A                                                                                           | **Lending**             | **A2-security** |
 | **Cantina**    | ZeroLend               | **1st** 🥇     | **2H, 8M**   | [Leaderboard](https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407)            | **Lending**             | ElHaj           |
 | **CodeHawks**  | Stake-Link             | **1st** 🥇     | **2H, 1M**   | [Leaderboard](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)                    | **Staking**             | ElHaj           |
