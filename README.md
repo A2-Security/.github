@@ -18,6 +18,7 @@
 | **Immunefi**   | Folks-Finance #2       | **1st** 🥇     | **1C**       | [Leaderboard](https://immunefi.com/audit-competition/mitigation-audit-folksfinance/leaderboard/#top) | **Lending**             | **A2-security** |
 | **Cantina**    | ZeroLend               | **1st** 🥇     | **2H, 8M**   | [Leaderboard](https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407)            | **Lending**             | ElHaj           |
 | **CodeHawks**  | Stake-Link             | **1st** 🥇     | **2H, 1M**   | [Leaderboard](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)                    | **Staking**             | ElHaj           |
+| **Immunefi**   | Folks-Finance #3           | **2nd** 🥈     | **1H**   | N/A                                                                                           | **Staking/Algorand**             | **A2-security** |
 | **Immunefi**   | Folks-Finance          | **2nd** 🥈     | **4H, 3M**   | N/A                                                                                           | **Lending**             | **A2-security** |
 | **Code4rena**  | Dyad                   | **2nd** 🥈     | **5H, 4M**   | [Leaderboard](https://code4rena.com/audits/2024-04-dyad#top)                                   | **Lending**             | Alix40          |
 | **N/A**        | PossumLabs             | **2nd** 🥈     | **1M**       | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf) | **Yield**    | ElHaj       |
